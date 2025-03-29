@@ -98,7 +98,7 @@ RESPONSE:
 
 ![image](https://github.com/user-attachments/assets/1e72b3f2-2be6-431d-bbc8-33971817f7e3)
 
-CALULATED VOLUME:
+CALCULATED VOLUME:
 
 ![image](https://github.com/user-attachments/assets/be29c83b-44b3-44ca-85bf-80d7cc218b9a)
 
